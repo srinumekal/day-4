@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-main-container{
+    background-image:url("https://img.freepik.com/free-photo/sports-tools_53876-138077.jpg?t=st=1700722428~exp=1700723028~hmac=76bb09191bee736848eff2c9683c843832770c3cf65110d7d40d281314a4a4e8");
+    height:100vh;
+    background-size:cover;
+}
+.main-heading{
+    font-family:"roboto";
+    color:blue;
+    font-size:30px;
+}
+.sub-container{
+    background-color:white;
+    text-align:center;
+    padding:20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+
+}
+.button{
+    height:40px;
+    width:130px;
+    border-radius:10px;
+}
